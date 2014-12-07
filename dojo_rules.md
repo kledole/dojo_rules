@@ -10,3 +10,8 @@ Dojo Rules
 * No horseplay on Tatami
 * No smoking 
 * Excessive noice is not allowed
+
+Skills
+==========
+Killing history using git rebase
+
